@@ -1,4 +1,9 @@
 data
 models
 .ipynb_checkpoints
-bottlenecks
+checkpoint
+__pycache__
+*.chk
+*.chk.meta
+datasets/*.p
+datasets/cifar-10-batches-py
